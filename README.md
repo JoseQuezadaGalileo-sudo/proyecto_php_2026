@@ -17,3 +17,8 @@ Como parte de los requeriminetos a instalar para su correcta ejecución se lista
 - Abrir un navegador web
 - Ingresar la dirección IP del servidor en la URL
 - Visualizar el contenido descrito en la sección de Descripción
+
+## Datos del autor 
+Nombre: José Quezada
+Correo: 26000205@galileo.edu
+Carné: 26000205
